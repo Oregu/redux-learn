@@ -1,6 +1,7 @@
 # Learn Redux
 
 Learning Redux video series from @wesbos.
+https://learnredux.com/
 
 ## Running
 
